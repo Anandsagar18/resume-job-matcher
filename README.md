@@ -188,6 +188,3 @@ MIT License
 
 ---
 
-
-You did **real work today**.
-Sleep like an engineer who shipped v1.0 💤👏
