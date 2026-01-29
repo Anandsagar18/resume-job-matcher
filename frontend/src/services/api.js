@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = "http://64.227.152.161:8000";
+const API_BASE_URL = "https://api.anandsagargaikwad.in";
 
 /**
  * API service for communicating with the FastAPI backend.
